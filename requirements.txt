@@ -1,0 +1,7 @@
+flask
+nltk
+textblob
+requests
+python-dotenv
+pytest
+selenium
